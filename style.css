@@ -13,6 +13,13 @@ body {
     background-color: #0075ff;
 }
 
+h1 {
+    text-align: center;
+    font-size: 2.2em;
+    color: #1f1f1f;
+    font-weight: 700;
+}
+
 .wrapper {
     width: 45%;
     min-width: 550px;
