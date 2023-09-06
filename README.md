@@ -53,7 +53,7 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <br>
 
 <p align="center">
-<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/d1559167-060f-4502-b7af-5ba58d402775" width="450" height="550"/>
+<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/d1559167-060f-4502-b7af-5ba58d402775" width="550" height="450"/>
 </p>
 
 <h1 align="center">Web Developer - Full Stack</h1>
