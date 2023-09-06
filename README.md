@@ -53,7 +53,7 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <br>
 
 <p align="center">
-<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/d1559167-060f-4502-b7af-5ba58d402775" width="50" height="50"/>
+<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/d1559167-060f-4502-b7af-5ba58d402775" width="150" height="150"/>
 </p>
 
 <h1 align="center">Web Developer - Full Stack</h1>
@@ -78,7 +78,7 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <br>
 <br>
 <p align="center">
-<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/926e54fe-be59-4c9d-9afb-c8bff890578b" width="50" height="50"/>
+<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/926e54fe-be59-4c9d-9afb-c8bff890578b" width="150" height="150"/>
 </p>
 
 
